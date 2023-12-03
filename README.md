@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a Master of Computer Application working as a 
 ## 🤝 Let's Connect
 
 - 📧 Reach out to me: [deokar782@gmail.com]
-- 💼 Connect on [LinkedIn](www.linkedin.com/in/bhagyashri782)
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/bhagyashri782)
   
 ## 📊 GitHub Stats
 
