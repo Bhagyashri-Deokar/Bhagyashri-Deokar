@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Master of Computer Application working as a 
 ## 🚀 Technology Stack
 
 - 💡 Proficient in Spring Core, Spring Boot, SpringMVC, Hibernate, Maven, and App Engine.
-- ☁️ More than 1 year of substantial expertise in GCP, App Engine, Cloud Storage, and Cloud SQL.
+- ☁️ More than 2 years of substantial expertise in GCP, App Engine, Cloud Storage, and Cloud SQL.
 - 🔧 Experienced in deployment and code versioning using SVN.
 
 ## 🌱 Learning and Passion
