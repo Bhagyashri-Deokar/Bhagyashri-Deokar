@@ -1,36 +1,64 @@
 # 👋 Hi, I'm Bhagyashri Deokar
 
-Welcome to my GitHub profile! I'm a Master of Computer Application working as a software developer with a passion for exploring and learning new technologies. My goal is to optimize code and contribute to efficient and innovative solutions.
+I’m a passionate **Software Developer** with **3+ years of experience** in building scalable backend services and full-stack applications. I specialize in Java-based technologies, cloud platforms, and database management, with a strong focus on clean code and continuous improvement.
 
-## 💼 Professional Background
+---
 
-- 🖥️ Currently working as a Software Developer with expertise in end-to-end web app development.
-- 🌐 Skilled in Spring Boot, MySQL, HTML, CSS, and JavaScript.
-- 📱 Experienced in creating responsive and visually appealing user interfaces using Bootstrap.
+## 💼 Work Experience
 
-## 🚀 Technology Stack
+### 🔹 Neutara Technologies — *Java Developer*  
+**May 2024 – Present**  
+- Designing and developing REST APIs using Java and Spring Boot.  
+- Working with MongoDB for schema design, performance tuning, and data migration.  
+- Contributing to **CloudFuze**, a leading cloud data migration and management platform.
 
-- 💡 Proficient in Spring Core, Spring Boot, SpringMVC, Hibernate, Maven, and App Engine.
-- ☁️ More than 2 years of substantial expertise in GCP, App Engine, Cloud Storage, and Cloud SQL.
-- 🔧 Experienced in deployment and code versioning using SVN.
+### 🔹 UMS Tech Labs — *Software Engineer*  
+**April 2022 – May 2024**  
+- Integrated CRMs with **Exotel Cloud Telephony** using Firebase and Spring Boot.  
+- Developed SaaS-based Google Workspace Add-ons using Java and GCP.  
+- Maintained scalable microservices and handled backend development using Spring Cloud, Hibernate, and MySQL.
 
-## 🌱 Learning and Passion
+### 🔹 Sai Info Solution — *Junior Java Developer*  
+**October 2021 – February 2022**  
+- Assisted in developing web applications using Java, JSP, Servlets, and Spring Boot.  
+- Managed MySQL database queries, Hibernate, and supported AWS deployments.
 
-- 🤖 Passionate about staying updated with the latest technologies.
-- 🚀 Always eager to explore and learn new methodologies to optimize code.
+---
 
-## 🛠️ Git Skills
+## 🔧 Tech Stack
 
-- 📂 Proficient in Git for version control.
-- 🔄 Experienced in seamless integration with Git for collaborative development.
+**Languages:** Java, JavaScript  
+**Frameworks:** Spring Boot, Spring MVC, Hibernate  
+**Web:** HTML, CSS, Bootstrap  
+**Databases:** MySQL, MongoDB  
+**Cloud:** GCP, AWS  
+**Version Control:** Git, SVN
 
-## 🤝 Let's Connect
+---
 
-- 📧 Reach out to me: [deokar782@gmail.com]
-- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/bhagyashri782)
-  
+## 📚 Education
+
+- 🎓 MCA – Master of Computer Application (2019–2022) – 77%  
+- 🎓 BSc in Computer Science (2017–2019) – 75%
+
+---
+
+## 🌱 Currently Learning
+
+- Deepening my understanding of microservices and cloud-native architecture.  
+- Exploring advanced Spring modules and clean architecture patterns.
+
+---
+
+## 🤝 Let’s Connect
+
+- 📫 Email: [deokar782@gmail.com](mailto:deokar782@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/bhagyashri782](https://www.linkedin.com/in/bhagyashri782)
+
+---
+
 ## 📊 GitHub Stats
 
 [![Bhagyashri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagyashri-Deokar&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/Bhagyashri-Deokar)
 
-Let's connect and enhance our careers together! 🚀
+---
